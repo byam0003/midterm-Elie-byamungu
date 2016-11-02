@@ -49,10 +49,13 @@ pre, code, kbd{
     width: 95%;
     margin: 0 auto;
 }
-header{
-    width: 100%;
-    background-size: 300px 100px; 
-    background-image:img src="http://loremflickr.com/320/240?random=1";
+    header{
+        width: 100%;
+        background-size: 300px 100px;
+        border-bottom: 0.8rem solid #869948;
+        background-color: #A9D23A;
+        background-image:img src="http://loremflickr.com/320/240?random=1";
+}
 nav{
     width: 100%;
 }
