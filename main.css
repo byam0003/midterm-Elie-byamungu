@@ -51,6 +51,9 @@ pre, code, kbd{
 }
 header{
     width: 100%;
+    border-bottom: 0.8rem solid #869948;
+    background-color: #A9D23A;
+    color:#6B8525
 }
 nav{
     width: 100%;
