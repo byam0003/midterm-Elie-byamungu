@@ -51,9 +51,8 @@ pre, code, kbd{
 }
 header{
     width: 100%;
-    background-color: #A9D23A;
     background-size: 300px 100px; 
-    background-color: lightblue;
+    background-image:img src="http://loremflickr.com/320/240?random=1";
 }
 nav{
     width: 100%;
