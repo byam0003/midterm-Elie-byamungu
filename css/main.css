@@ -77,7 +77,7 @@ nav a:hover{
 }
 main{
     width: 100%;
-    background-color: #469EEB;
+    background-color: red;
 }
 .col{
     float: none;
