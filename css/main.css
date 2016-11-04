@@ -51,7 +51,18 @@ pre, code, kbd{
 }
 header{
     width: 100%;
+    
+    
+.masthead {
+    background: black;
+    background-image: url("../images/headerFooter.png");
+    background-repeat: repeat;
+    border-bottom: solid black 4px;
+    box-shadow: 0 4px 2px -2px darkslategray;
+    /*margin-bottom: 10px;*/
+    padding: 5px;
 }
+    
 nav{
     width: 100%;
 }
